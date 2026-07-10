@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Yuri Brollo
 
-<!--
-**Yuribrollo/Yuribrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em desenvolvimento de software e jogos, formado em Programação de Jogos Digitais e estudante de Análise e Desenvolvimento de Sistemas no IFPR.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens**
+
+* C#
+* Python
+* C++
+* PHP
+* SQL
+* HTML
+* CSS
+
+**Desenvolvimento**
+
+* Unity (2D, 3D e VR)
+* Construct 3
+
+## 🚀 Atualmente
+
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas (IFPR)
+* 📚 Estudando desenvolvimento back-end, banco de dados e boas práticas de programação
+* 💡 Desenvolvendo projetos para evoluir como desenvolvedor
+
+## 📫 Contato
+
+* 📧 **[yuribrollo97@gmail.com](mailto:yuribrollo97@gmail.com)**
