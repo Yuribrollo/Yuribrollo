@@ -19,12 +19,6 @@ Desenvolvedor focado em desenvolvimento de software e jogos, formado em Programa
 * Unity (2D, 3D e VR)
 * Construct 3
 
-## 🚀 Atualmente
-
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas (IFPR)
-* 📚 Estudando desenvolvimento back-end, banco de dados e boas práticas de programação
-* 💡 Desenvolvendo projetos para evoluir como desenvolvedor
-
 ## 📫 Contato
 
 * 📧 **[yuribrollo97@gmail.com](mailto:yuribrollo97@gmail.com)**
